@@ -2,7 +2,7 @@ def hello():
     print("Hello, how are you!")
 
 
-def pack(peram1,peram2,peram3):
+def pack(param1,param2,param3):
     return [1,2,3]
     
 
